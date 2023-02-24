@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:8ec5fc,100:e0c3fc&height=250&section=header&text=안녕하세요,%20지유림입니다👀&fontSize=35&fontColor=576eac&fontAlignY=40&animation=fadeIn&desc=Hello,%20I'm%20Yurim!&descAlignY=56&descAlign=50" />
 <div>	
-	<h3>💻 GitHub Stats</h3>
+  <h3>💻 GitHub Stats</h3>
   
   ![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooriim&show_icons=true&theme=transparent&title_color=4f6aa9&text_color=798fc2&bg_color=30,accbee,e7f0fd&show_icons=false)  
 
