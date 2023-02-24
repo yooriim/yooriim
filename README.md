@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=left>
-  <h3>⚒️ Tech Stack</h3>
+  <h3>💡 Tech Stack</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  </div>
  <div>
   <br>
-	<h3>💡 Platforms & Languages</h3>
+  <h3>⚒️ Tools</h3>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=gray">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
