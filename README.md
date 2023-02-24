@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yooriim/yooriim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:8ec5fc,100:e0c3fc&height=250&section=header&text=안녕하세요,%20지유림입니다👀&fontSize=35&fontColor=576eac&fontAlignY=40&animation=fadeIn" />
+
+![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurim&show_icons=true&theme=transparent&title_color=4f6aa9&text_color=798fc2&bg_color=30,accbee,e7f0fd&show_icons=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
