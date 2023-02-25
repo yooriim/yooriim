@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:8ec5fc,100:e0c3fc&height=250&section=header&text=안녕하세요,%20지유림입니다%20👀&fontSize=35&fontColor=576eac&fontAlignY=40&animation=fadeIn&desc=Hello,%20I'm%20Yurim!&descAlignY=56&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:8ec5fc,100:e0c3fc&height=250&section=header&text=안녕하세요,%20지유림입니다!%20👀&fontSize=35&fontColor=576eac&fontAlignY=40&animation=fadeIn&desc=Hello,%20I'm%20Yurim!&descAlignY=56&descAlign=50" />
 <div>	
   <h3>💻 GitHub Stats</h3>
   
